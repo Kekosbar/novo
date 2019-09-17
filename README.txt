@@ -1,5 +1,3 @@
 Testando a utilização do git
-
-Outra alteração no arquivo
-
+neu new enw
 Alteração feita no master
